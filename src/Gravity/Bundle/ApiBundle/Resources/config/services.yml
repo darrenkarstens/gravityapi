@@ -1,0 +1,13 @@
+
+services:
+    gravity.user_required_listener:
+        class: Gravity\Bundle\ApiBundle\EventListener\UserRequiredListener
+        arguments: [@doctrine.orm.entity_manager]
+        tags:
+            - { name: kernel.event_listener, event: kernel.controller, method: onKernelController }
+            
+    gravity.versioned_api_listener:
+        class: Gravity\Bundle\ApiBundle\EventListener\VersionedAPIListener
+        arguments: [@doctrine.orm.entity_manager]
+        tags:
+            - { name: kernel.event_listener, event: kernel.controller, method: onKernelController }

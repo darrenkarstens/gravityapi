@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/darren/www/gravity/code/src/Gravity/Bundle/ApiBundle/Controller/MapController.php</file>
+            <file>file:/home/darren/www/gravity/code/src/Gravity/Bundle/ApiBundle/EventListener/UserRequiredListener.php</file>
+            <file>file:/home/darren/www/gravity/code/app/config/config_dev.yml</file>
+            <file>file:/home/darren/www/gravity/code/src/Gravity/Bundle/ApiBundle/EventListener/VersionedAPIController.php</file>
+            <file>file:/home/darren/www/gravity/code/error_log</file>
+            <file>file:/home/darren/www/gravity/code/src/Gravity/Bundle/ApiBundle/Entity/HighScore.php</file>
+            <file>file:/home/darren/www/gravity/code/src/Gravity/Bundle/ApiBundle/EventListener/VersionedAPIListener.php</file>
+            <file>file:/home/darren/www/gravity/code/src/Gravity/Bundle/ApiBundle/Entity/Map.php</file>
+            <file>file:/home/darren/www/gravity/code/src/Gravity/Bundle/ApiBundle/Controller/UserController.php</file>
+            <file>file:/home/darren/www/gravity/code/app/config/config_prod.yml</file>
+            <file>file:/home/darren/www/gravity/code/src/Gravity/Bundle/ApiBundle/Resources/config/routing.yml</file>
+            <file>file:/home/darren/www/gravity/code/composer.json</file>
+            <file>file:/home/darren/www/gravity/code/src/Gravity/Bundle/ApiBundle/Entity/UserAccount.php</file>
+            <file>file:/home/darren/www/gravity/code/src/Gravity/Bundle/ApiBundle/DependencyInjection/Configuration.php</file>
+            <file>file:/home/darren/www/gravity/code/src/Gravity/Bundle/ApiBundle/Controller/HighScoreController.php</file>
+            <file>file:/home/darren/www/gravity/code/src/Gravity/Bundle/ApiBundle/Tests/Controller/UserRequiredListenerTest.php</file>
+            <file>file:/home/darren/www/gravity/code/src/Gravity/Bundle/ApiBundle/DependencyInjection/GravityApiExtension.php</file>
+            <file>file:/home/darren/www/gravity/code/app/config/config_test.yml</file>
+            <file>file:/home/darren/www/gravity/code/app/config/parameters.yml</file>
+            <file>file:/home/darren/www/gravity/code/src/Gravity/Bundle/ApiBundle/Resources/config/services.yml</file>
+            <file>file:/home/darren/www/gravity/code/app/config/config.yml</file>
+            <file>file:/home/darren/www/gravity/code/src/Gravity/Bundle/ApiBundle/EventListener/UserRequiredController.php</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,4 @@
+gravity_api:
+    resource: "@GravityApiBundle/Resources/config/routing.yml"
+    prefix:   /
+

@@ -1,0 +1,7 @@
+gravity_api_map:
+    resource: "@GravityApiBundle/Controller/MapController.php"
+    type:     annotation
+
+gravity_api_score:
+    resource: "@GravityApiBundle/Controller/HighScoreController.php"
+    type:     annotation
